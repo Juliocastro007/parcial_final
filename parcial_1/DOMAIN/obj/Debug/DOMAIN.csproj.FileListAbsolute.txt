@@ -1,0 +1,6 @@
+C:\Users\julwa\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\parcial_1\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\julwa\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\parcial_1\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\julwa\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\parcial_1\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\julwa\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\parcial_1\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\julwa\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\parcial_1\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\julwa\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\parcial_1\DOMAIN\obj\Debug\DOMAIN.pdb
